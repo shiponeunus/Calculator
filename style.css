@@ -1,0 +1,11 @@
+.FortuneText{
+  color:red;
+  font-size: 5vmin;
+  text-shadow: 2px 2px black;
+  transform: rotateZ(-7deg);
+  transition: 1s;
+}
+
+#fortune-output{
+  display: flex;
+}
